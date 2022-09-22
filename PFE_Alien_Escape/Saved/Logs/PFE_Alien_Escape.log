@@ -2160,3 +2160,14 @@ BP_Hunter_detection_Lazer197
 [2022.09.22-11.42.19:432][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2022.09.22-11.42.19:434][393]LogEditorActor: Deleted 65 Actors (0.073 secs)
 [2022.09.22-11.42.19:451][394]LogNavigationDataBuild: Navigation data generation finished in /Game/Map/Test/Test_map1.
+[2022.09.22-11.43.18:075][946]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.22-11.43.18:161][946]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.22-11.43.30:254][ 17]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.22-11.43.30:268][ 17]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.22-11.43.44:114][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.09.22-11.43.44:155][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.22-11.43.44:193][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.22-11.43.44:246][777]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Map/Test/Test_map1/4/W6/JTVW37TRP3DIBTJK4CYH68
+[2022.09.22-11.43.44:246][777]LogSavePackage: Moving '../../../../../../Users/felix.chevrel/Desktop/ALIEN PROJECT/PFE-Alien-Escape-game/PFE_Alien_Escape/Saved/JTVW37TRP3DIBTJK4CYH689989A7C34C202255F28C6A8C4FFC0504.tmp' to '../../../../../../Users/felix.chevrel/Desktop/ALIEN PROJECT/PFE-Alien-Escape-game/PFE_Alien_Escape/Content/__ExternalActors__/Map/Test/Test_map1/4/W6/JTVW37TRP3DIBTJK4CYH68.uasset'
+[2022.09.22-11.43.44:264][777]AssetCheck: New page: Asset Save: BPC_Hunter_C_UAID_047C161370CEA53801_1721110343
+[2022.09.22-11.43.44:264][777]LogContentValidation: Display: Validating BPC_Hunter_C /Game/Map/Test/Test_map1.Test_map1:PersistentLevel.BPC_Hunter_C_UAID_047C161370CEA53801_1721110343
